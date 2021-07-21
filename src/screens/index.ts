@@ -5,3 +5,5 @@ export { default as InterpolateColor } from './InterpolateColor';
 export { default as Onboarding } from './Onboarding';
 export { default as PinchGesture } from './PinchGesture';
 export { default as TapGesture } from './TapGesture';
+export { default as CustomScroll } from './ScrollView';
+export { default as ColorPicker } from './ColorPicker';

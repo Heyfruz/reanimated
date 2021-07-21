@@ -1,6 +1,6 @@
 import React from 'react';
-import { TapGesture } from './src/screens';
+import { ColorPicker } from './src/screens';
 
 export default function App(): JSX.Element {
-  return <TapGesture />;
+  return <ColorPicker />;
 }
